@@ -11,39 +11,13 @@ This project analyzes historical Nobel Prize winner data to uncover demographic 
 
 1. What is the most commonly awarded gender and birth country?
 
-Stored as:
-
-top_gender
-
-top_country
-
 2. Which decade had the highest proportion of US-born Nobel Prize winners?
-
-Stored as:
-
-max_decade_usa
 
 3. Which decade & category combination had the highest proportion of female laureates?
 
-Stored as:
-
-max_female_dict
-Format:
-
-{decade: category}
 4. Who was the first woman to receive a Nobel Prize, and in what category?
 
-Stored as:
-
-first_woman_name
-
-first_woman_category
-
 5. Which individuals or organizations have won more than one Nobel Prize?
-
-Stored as:
-
-repeat_list (list of names)
 
 **Files Included**
 
